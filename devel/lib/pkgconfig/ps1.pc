@@ -1,0 +1,8 @@
+prefix=/home/sithap/Documents/Research_Group_Files/AGV/AGV Selections Round 1/devel
+
+Name: ps1
+Description: Description of ps1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sithap/Documents/Research_Group_Files/AGV/AGV Selections Round 1/devel/lib 
+Requires: 
